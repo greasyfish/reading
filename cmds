@@ -2,3 +2,4 @@
 关联后第一次推送master分支的所有内容：  git push -u origin master
 每次提交后推送最新修改：        git push origin master
 
+重命名文件：	git mv filename1 filename2
